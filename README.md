@@ -182,3 +182,5 @@ CMP - Perform bitwise subtraction of the source from destination; Source and des
 - Jump instructions with the same target
 - Thwarting stack-frame analysis
 - Timing delay of VM
+[MRE_EST_Mock_Set_2_ans_key.docx](https://github.com/user-attachments/files/18818526/MRE_EST_Mock_Set_2_ans_key.docx)
+[MRE_EST_Mock_Set_1_ans_key_v2.docx](https://github.com/user-attachments/files/18818528/MRE_EST_Mock_Set_1_ans_key_v2.docx)
